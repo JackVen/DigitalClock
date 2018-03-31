@@ -1,0 +1,4 @@
+#Files to ignore for the project
+/.pdf
+/.o
+/.vs
